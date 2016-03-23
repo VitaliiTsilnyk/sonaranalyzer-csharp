@@ -43,6 +43,7 @@ bld/
 
 # NuGet
 packages/
+project.lock.json
 
 # Roslyn
 *.sln.ide/
